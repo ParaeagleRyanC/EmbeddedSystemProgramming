@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/lab3.elf.dir/main.c.o -o lab3.elf   -L/auto/fsb/ryan9801/ecen330/platforms/emulator  -Wl,-rpath,/auto/fsb/ryan9801/ecen330/platforms/emulator -lemu -lQt5Widgets -lQt5Gui -lQt5Core -lpthread ../drivers/libintervalTimer.a ../drivers/libbuttons_switches.a -lemu -lQt5Widgets -lQt5Gui -lQt5Core -lpthread 
